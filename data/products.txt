@@ -1,0 +1,8 @@
+P1001,Laptop,High-performance laptop,899.99,10,Electronics
+P1002,Smartphone,Latest model smartphone,599.99,25,Electronics
+P1003,Headphones,Wireless noise-canceling,149.99,50,Electronics
+P1004,Book - Java Programming,Complete Java guide,39.99,100,Books
+P1005,Coffee Maker,Automatic coffee machine,79.99,30,Home
+P1006,Desk Chair,Ergonomic office chair,199.99,15,Furniture
+P1007,Water Bottle,Stainless steel, 1L,24.99,200,Sports
+P1008,Backpack,Laptop backpack,49.99,40,Accessories
