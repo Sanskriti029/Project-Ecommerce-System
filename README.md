@@ -282,8 +282,8 @@ Login → Add Products → View Orders → Update Status
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [Sansriti029](https://github.com/Sanskriti029)
+- Email: sanskritikhandelwal029@gmail.com
 
 ## 📄 License
 
