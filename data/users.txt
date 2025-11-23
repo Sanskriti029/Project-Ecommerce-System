@@ -1,0 +1,1 @@
+A1000,Admin,admin@shop.com,admin123,0000000000,SUPER,ADMIN
