@@ -282,7 +282,7 @@ Login → Add Products → View Orders → Update Status
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [Sansriti029](https://github.com/Sanskriti029)
+- GitHub: [Sanskriti029](https://github.com/Sanskriti029)
 - Email: sanskritikhandelwal029@gmail.com
 
 ## 📄 License
