@@ -11,7 +11,7 @@ A console-based e-commerce shopping application built using Java, demonstrating 
 - [How to Run](#how-to-run)
 - [Usage Guide](#usage-guide)
 - [OOP Concepts Demonstrated](#oop-concepts-demonstrated)
-- [Screenshots](#screenshots)
+
 
 ## 🎯 Overview
 
@@ -240,15 +240,6 @@ Login → Add Products → View Orders → Update Status
 - Insufficient stock (should prevent order)
 - Admin-only operations (should enforce access control)
 
-## 📸 Screenshots
-
-*(Add screenshots of your running application here)*
-
-1. Main Menu
-2. Product Listing
-3. Shopping Cart
-4. Order Confirmation
-5. Admin Dashboard
 
 ## 🔒 Security Features
 
@@ -281,9 +272,9 @@ Login → Add Products → View Orders → Update Status
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Sanskriti Khandelwal**
 - GitHub: [Sanskriti029](https://github.com/Sanskriti029)
-- Email: sanskritikhandelwal029@gmail.com
+
 
 ## 📄 License
 
