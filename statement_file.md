@@ -266,8 +266,3 @@ The system balances functionality with simplicity, making it suitable for educat
 
 ---
 
-**Project Duration**: 2-3 weeks  
-**Difficulty Level**: Intermediate  
-**Language**: Java  
-**Type**: Console Application  
-**Domain**: E-Commerce / Retail
